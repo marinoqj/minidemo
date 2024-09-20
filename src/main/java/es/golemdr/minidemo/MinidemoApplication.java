@@ -1,6 +1,6 @@
 package es.golemdr.minidemo;
 
-import java.io.*
+import java.io.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
